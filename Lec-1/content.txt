@@ -1,0 +1,62 @@
+Server - Server is a Software which serve
+2 Major Components
+1 : A programming Language --> one framework, JS
+2 : Database --> ORM, ODM
+
+Kisi bhi framework and library ko use karenge to hamara kaam asaan kar dega woh
+Database (Db) - Another Continent me hi hota h installed ( KEEP IN MIND )
+
+Backend - Only Functions likhenge ham jo particular koi slug pe user gaya h ya fir browser me open kiya h /login /signup tab konsa function call karvana h woh hi backend h aur usi se ham database se interact karenge 
+Interaction with Databse - Directly nahi hoga we will use some framework there as well that will make our interaction smooth and easy
+Library and Framework makes our work very easy.
+
+Javascript based backend
+- Express
+- Mongoose
+
+
+Main points in Javascript based backend
+1. Data
+2. File
+3. Third Party API
+
+
+SMS
+Calls
+
+JS Runtime : NodeJs / Deno / Bun
+
+FILE STRUCTURE
+src
+- package.json
+- .env - db url, pswd 
+- Readme, git,lint, prettier
+
+
+API is nothing but response hi hai 
+
+For any Backend : 
+index - Entry point  It has -> db connection
+App - cookie, configuration
+Constants - enum
+
+FOLDER STRUCTURE (MOST OF TIME)
+Db - code for connecting with database
+Models - schema for storing the data to database , Structure for storing data
+Controllers - functions, methods, MVC
+Routes - /login, /signup
+Middlewares
+Utils - sending email everytime, utility (fn hi hai)
+More(depends) - 
+
+
+
+
+
+
+
+
+
+
+
+

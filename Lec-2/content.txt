@@ -1,0 +1,25 @@
+Express -> package
+
+Empty Node ki application kaise banti hai ?
+
+--> npm init - Node package manager se initalize krdo
+--> init - Utility
+
+npm run start 
+
+->  You need to restart the server after making any changes in the code
+-> In React Hot Reloading karke ek concept h jisme automatic app jitna code likhte ho woh automatic reload hona start ho jaata h to hame pata nahi chalta 
+
+
+
+Things to keep in mind while deploying
+- Sensitive Information
+
+
+Websites
+- Digital Ocean
+- Raleway
+- Heroku
+- Seenode
+- render
+- cyclic
