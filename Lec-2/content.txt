@@ -23,3 +23,9 @@ Websites
 - Seenode
 - render
 - cyclic
+
+
+
+// You need to install 
+.env -> for sensitive information like db url db passwd and port numbers and etc and we make sure that while deploying this app this .env should not go to production 
+.gitIgnore -> whatever you add it into gitignore it will be ignored while doing for the production 
